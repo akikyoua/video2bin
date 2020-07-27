@@ -9,4 +9,4 @@ badapple video to bin use opencv。
 
 算是一个视频取模的软件吧
 
-![bad](E:\QTProject\badapple\video2bin\bad.png)
+![bad](bad.png)
